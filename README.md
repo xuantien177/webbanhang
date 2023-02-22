@@ -1,4 +1,4 @@
-Hello đây là web bán hàng sử dụng Yii framework
+Hello đây là proj BTL web bán hàng sử dụng Yii framework
 **Quan trọng : trước khi chạy thì cần import CSDL nhé, file sql đã xuất ra, cài xampp xong vào php import là xong
 
 -Để chạy được bạn sẽ cần những thứ sau:
