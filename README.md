@@ -1,10 +1,12 @@
 Hello đây là proj BTL web bán hàng sử dụng Yii framework
 **Quan trọng : trước khi chạy thì cần import CSDL nhé, file sql đã xuất ra, cài xampp xong vào php import là xong
 
--Để chạy được bạn sẽ cần những thứ sau:
-1.Web server local Xampp : https://www.apachefriends.org/download.html
-2.FrameWork Yii2 bản advance : https://www.yiiframework.com/
-3.Code editor : ở đây mình dùng php storm
+👉 [Demo youtube](https://youtu.be/iCr-a5iB5Ek)
+
+Để chạy được bạn sẽ cần những thứ sau:
+-Web server local Xampp : https://www.apachefriends.org/download.html
+-FrameWork Yii2 bản advance : https://www.yiiframework.com/
+-Code editor : ở đây mình dùng php storm
 
 -Website có khá đủ các chức năng : quản lý đơn hàng, giỏ hàng, gửi email khi khách hàng đặt hàng thành công. 
 ![Screenshot_18](https://user-images.githubusercontent.com/42117477/222327658-19f9fab4-320e-4e0a-8479-5ee18b92926b.png)
