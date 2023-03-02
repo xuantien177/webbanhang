@@ -8,3 +8,5 @@ Hello đây là proj BTL web bán hàng sử dụng Yii framework
 
 -Website có khá đủ các chức năng : quản lý đơn hàng, giỏ hàng, gửi email khi khách hàng đặt hàng thành công. 
 ![Screenshot_18](https://user-images.githubusercontent.com/42117477/222327658-19f9fab4-320e-4e0a-8479-5ee18b92926b.png)
+![Screenshot_19](https://user-images.githubusercontent.com/42117477/222327668-d762f8e6-938e-4488-a84d-6197e74787bb.png)
+
