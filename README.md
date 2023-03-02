@@ -7,3 +7,4 @@ Hello đây là proj BTL web bán hàng sử dụng Yii framework
 3.Code editor : ở đây mình dùng php storm
 
 -Website có khá đủ các chức năng : quản lý đơn hàng, giỏ hàng, gửi email khi khách hàng đặt hàng thành công. 
+![Screenshot_18](https://user-images.githubusercontent.com/42117477/222327658-19f9fab4-320e-4e0a-8479-5ee18b92926b.png)
